@@ -1,0 +1,20 @@
+{
+  "name": "uplift-ignite-coaching",
+  "version": "1.0.0",
+  "description": "Uplift + Ignite Coaching and Consulting - Stacy Balzer",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "coaching",
+    "consulting",
+    "leadership"
+  ],
+  "author": "Stacy Balzer",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
